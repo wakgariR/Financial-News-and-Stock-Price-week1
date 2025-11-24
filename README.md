@@ -7,3 +7,4 @@ install ta-lib
 3 Install the wheel:
 pip install ta_lib-0.6.8-cp313-cp313-win_amd64.whl
 <TA_Lib_file_with_cp313_tag>.whl cp313 descript you python version. so when you install find you version .whl
+4 pip install git+https://github.com/mqandil/pynance.git
